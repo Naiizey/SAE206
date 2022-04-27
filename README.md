@@ -7,6 +7,8 @@ Communication et présentation d'un event team building
 
 
 ## Évènement : Airsoft → Chasse aux patrons !
+Lieu : La ville Rée, 56460 Sérent
+
 Création de 4-5 équipes. Et une petite équipe composée de la patronne et quelques autres personnes sur le site de chasse à l'homme.
 
 Au départ, plusieurs équipes sont réparties à égales distances du site.
