@@ -1,5 +1,5 @@
 # SAE206
-Communication et présentation d'un évent team building
+Communication et présentation d'un event team building
 
 ## Entreprise : Novatech Industries
 
