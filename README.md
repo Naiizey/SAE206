@@ -3,6 +3,9 @@ Communication et présentation d'un event team building
 
 ## Entreprise : Novatech Industries
 
+
+
+
 ## Évènement : Airsoft → Chasse aux patrons !
 Création de 4-5 équipes. Et une petite équipe composée de la patronne et quelques autres personnes sur le site de chasse à l'homme.
 
