@@ -3,4 +3,4 @@ Communication et présentation d'un évent team building
 
 ## Entreprise : Novatech Industries
 
-## Évènement : Airsoft → Chasse au patrons !
+## Évènement : Airsoft → Chasse aux patrons !
