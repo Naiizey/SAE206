@@ -22,3 +22,4 @@ Le premier jour, les équipes doivent donc chacune rejoindre le site afin d'y pa
 Le deuxième jour, est un jour de reconnaissance, les équipes s'équipent de drones pour repérer les lieux et préparent une stratégie d'avancement pour le jour suivant.
 
 Les deux derniers jours sont consacrés à la chasse à l'homme, les équipes doivent donc toutes partir à la chasse de l'équipe de la patronne afin de les capturer.
+
