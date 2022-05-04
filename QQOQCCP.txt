@@ -1,7 +1,29 @@
-Qui: Novatech Industries
-Quoi: Événement airsoft "Recherche et extraction"
-Où:  la ville Rée 56460 Sérent
-Quand: 10/06/2025 - 15/06/2025
-Comment: 4 personnes dans l'entreprise sont staff (nous), il faudra réserver terrains, airsoft, nourritures et tentes. 
-Combien: Organisé pour 86 personnes.Le budget est de 31 k€
-Pourquoi:Renforcer la cohésion entre les différents membres de l'entreprise
+Qui : 
+Qui seront les participants :
+  Novatech Industries
+
+Quoi : 
+Quel type d'évènement ce sera : 
+  Airsoft "Recherche et extraction"
+
+Où :
+Quel sera l'endroit de l'évènement :
+  La ville Rée 56460 Sérent
+
+Quand :
+Quelles seront les dates :
+  10/06/2025 - 15/06/2025
+
+Comment :
+Comment l'évènement s'organisera-t-il :
+  4 personnes dans l'entreprise sont staff (nous), il faudra réserver terrains, airsoft, nourritures et tentes. 
+
+Combien:
+Combien de personne seront présentes à l'évènement :
+  Organisé pour 86 personnes
+Quel sera le budget de l'évènement :
+  Le budget est de 31 k€
+ 
+Pourquoi:
+Quel est la raison de l'organisation d'un tel évènement :
+  Renforcer la cohésion entre les différents membres de l'entreprise
