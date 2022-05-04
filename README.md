@@ -13,7 +13,7 @@ date: 10/06/2025 - 15/06/2025
 
 heure:12h00 premier jour à 19h le dernier
 
-Création de 4-5 équipes. Et une petite équipe composée de la patronne et quelques autres personnes sur le site de chasse à l'homme.
+Création de 4-5 équipes. Et une petite équipe sur le site de chasse à l'homme.
 
 Au départ, plusieurs équipes sont réparties à égales distances du site.
 
