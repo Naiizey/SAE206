@@ -23,3 +23,4 @@ Le deuxième jour, est un jour de reconnaissance, les équipes s'équipent de dr
 
 Les deux derniers jours sont consacrés à la chasse à l'homme, les équipes doivent donc toutes partir à la chasse de l'équipe de la patronne afin de les capturer.
 
+## Rappel : Evaluation Orale Jeudi 2 Juin 8h-10h
