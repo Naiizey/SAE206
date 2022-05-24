@@ -23,4 +23,15 @@ Le deuxième jour, est un jour de reconnaissance, les équipes s'équipent de dr
 
 Les deux derniers jours sont consacrés à la chasse à l'homme, les équipes doivent donc toutes partir à la chasse de l'équipe de la patronne afin de les capturer.
 
-## Rappel : Evaluation Orale Jeudi 2 Juin 8h-10h
+## Rappel : Evaluation Orale Jeudi 2 Juin 8h-10h:
+            Exposé de 7 Minutes :
+                      - diffusion du film pendant l'oral ( à compter dans les 7 mins )
+                      - après l'oral il y a un échange ( questions - réponses )
+                      - Présentation orale de l'event devant le membre du CSE ( Comité Social et Economique ) de l'orga choisie
+                      - compétition entre les élèves ( être convaincant )
+                      - oral dans un contexte professionnel
+                      - gérer l'espace, être dynamique
+                      - convaincre les membres du cse ( présenter l'orga de l'event avec un maximum de précision )
+                      - garder la charte graphique du flyer ( pour le diapo / le film )
+                      
+            Déposer le diapo en PDF sur moodle la veille de l'oral
